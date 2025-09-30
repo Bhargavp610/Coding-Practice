@@ -17,3 +17,10 @@ Each `.py` file starts with a short comment describing the approach I used.
 4. **Loops (Squares)**  
    - Use a for loop to print squares of all non-negative integers less than `n`.  
 
+5. **Leap Year**  
+   - Write a function `is_leap(year)` that returns `True` if the given year is a leap year, otherwise `False`.  
+   - Logic: A year is a leap year if it’s divisible by 400, or divisible by 4 but not by 100.  
+
+6. **Print Function**  
+   - Print numbers from `1` to `n` in a single line without using built-in string methods like `join`.  
+   - Approach: Use a loop to concatenate string representations of integers from 1 through n, then print the result.  
