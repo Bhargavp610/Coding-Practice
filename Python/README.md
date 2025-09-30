@@ -24,3 +24,11 @@ Each `.py` file starts with a short comment describing the approach I used.
 6. **Print Function**  
    - Print numbers from `1` to `n` in a single line without using built-in string methods like `join`.  
    - Approach: Use a loop to concatenate string representations of integers from 1 through n, then print the result.  
+
+7. **List Comprehensions**  
+   - Use a list comprehension to generate all coordinate triples `(i, j, k)` in a 3D grid where `i + j + k != n`.  
+   - This avoids nested loops and ensures output is in lexicographic order.  
+
+8. **List Operations**  
+   - Implement a dynamic list that supports commands: `insert`, `print`, `remove`, `append`, `sort`, `pop`, and `reverse`.  
+   - Use helper functions for modularity and iterate through commands using `split()` to parse arguments.  
