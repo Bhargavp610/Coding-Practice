@@ -12,5 +12,13 @@ Each file starts with a comment explaining the approach I used.
    - Compare Alice’s and Bob’s ratings element by element.  
    - Award points based on higher values and return both scores.  
 
+3. **A Very Big Sum**  
+   - Handle very large integers (up to 10^10).  
+   - Iterate through the array and accumulate values into a `long` to avoid overflow.  
+
+4. **Diagonal Difference**  
+   - Compute the sum of the left-to-right diagonal and the right-to-left diagonal of a square matrix.  
+   - Return the absolute difference between these two sums.  
+
 ---
 🔄 I’ll keep adding more problems and approaches here as I solve them.
