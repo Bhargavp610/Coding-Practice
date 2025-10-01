@@ -28,6 +28,13 @@ Each file starts with a comment explaining the approach I used.
    - Print a right-aligned staircase pattern using `#` symbols.  
    - Each line decreases spaces and increases `#` characters until the base is complete.  
 
+7. **Mini-Max Sum**
+   - Given five integers, calculate the minimum and maximum values by summing exactly four out of the five.
+   - Print the results as two space-separated values representing the minimum and maximum sums.
+
+8. **Birthday Cake Candles**
+   - Determine the tallest candle height from the array.
+   - Count how many candles have that height and return the count.
 
 ---
 🔄 I’ll keep adding more problems and approaches here as I solve them.
