@@ -20,5 +20,14 @@ Each file starts with a comment explaining the approach I used.
    - Compute the sum of the left-to-right diagonal and the right-to-left diagonal of a square matrix.  
    - Return the absolute difference between these two sums.  
 
+5. **Plus Minus**  
+   - Count positive, negative, and zero values in the array.  
+   - Print their ratios as decimals with 6 places of precision.  
+
+6. **Staircase**  
+   - Print a right-aligned staircase pattern using `#` symbols.  
+   - Each line decreases spaces and increases `#` characters until the base is complete.  
+
+
 ---
 🔄 I’ll keep adding more problems and approaches here as I solve them.
