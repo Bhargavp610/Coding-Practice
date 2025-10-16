@@ -71,3 +71,19 @@ Query the list of CITY names from STATION that start with a vowel (a, e, i, o, u
 19. **High Salary Employees with Short Tenure**
    Query the list of employee names from EMPLOYEE who have a salary greater than $2000 per month and have worked for less than 10 months.
    Sort the results by ascending EMPLOYEE_ID.
+
+20. **Greatest Northern Latitude Less Than 137.2345**
+   Query the greatest value of LAT_N from STATION that is less than 137.2345.
+   Round your answer to 4 decimal places.
+
+21. **Western Longitude for Largest Northern Latitude < 137.2345**
+   Query the LONG_W corresponding to the largest LAT_N less than 137.2345.
+   Round the result to 4 decimal places.
+
+22. **Smallest Northern Latitude Greater Than 38.7780**
+   Query the smallest LAT_N from STATION that is greater than 38.7780.
+   Round the answer to 4 decimal places.
+
+23. **Western Longitude for Smallest Northern Latitude > 38.7780**
+   Query the LONG_W where the smallest LAT_N is greater than 38.7780.
+   Round the result to 4 decimal places.
