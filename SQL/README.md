@@ -37,3 +37,14 @@ Each `.sql` file starts with comments describing the problem statement and notes
 
 10. **Cities Starting with Vowels**
 Query the list of CITY names from STATION that start with a vowel (a, e, i, o, u).
+
+11. **Cities Ending with Vowels**
+   Query the list of CITY names from STATION that end with vowels (a, e, i, o, u).
+   The result should not contain duplicates.
+
+12. **Cities Starting and Ending with Vowels**
+   Query the list of CITY names from STATION where both the first and last characters are vowels.
+   The result should not contain duplicates.
+
+13. **Cities Starting and Ending with Vowels (Duplicate Version)**
+   Same as Task 12 — queries cities whose first and last characters are vowels.
