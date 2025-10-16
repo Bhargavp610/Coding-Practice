@@ -1,0 +1,7 @@
+-- Select employee names with SALARY > 2000 and MONTHS < 10
+-- Sort results by ascending EMPLOYEE_ID
+
+SELECT NAME 
+FROM EMPLOYEE
+WHERE SALARY > 2000 AND MONTHS < 10
+ORDER BY EMPLOYEE_ID;

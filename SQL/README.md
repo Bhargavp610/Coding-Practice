@@ -46,5 +46,28 @@ Query the list of CITY names from STATION that start with a vowel (a, e, i, o, u
    Query the list of CITY names from STATION where both the first and last characters are vowels.
    The result should not contain duplicates.
 
-13. **Cities Starting and Ending with Vowels (Duplicate Version)**
-   Same as Task 12 — queries cities whose first and last characters are vowels.
+13. **Cities Not Starting with Vowels**
+   Query the list of CITY names from STATION that do not start with vowels.
+   The result should not contain duplicates.
+
+14. **Cities Not Ending with Vowels**
+   Query the list of CITY names from STATION that do not end with vowels.
+
+15. **Cities Not Starting or Ending with Vowels**
+   Query the list of CITY names from STATION that either do not start with vowels or do not end with vowels.
+   The result should not contain duplicates.
+
+16. **Cities Not Starting and Not Ending with Vowels**
+   Query the list of CITY names from STATION that do not start with vowels and do not end with vowels.
+   The result should not contain duplicates.
+
+17. **Students Scoring Higher than a Certain Marks**
+   Query the NAME of students from STUDENTS who scored higher than a given marks.
+   Order by the last three characters of the name, and in case of tie, sort by ascending ID.
+
+18. **Employee Names in Alphabetical Order**
+   Query the list of employee names from EMPLOYEE in alphabetical order.
+
+19. **High Salary Employees with Short Tenure**
+   Query the list of employee names from EMPLOYEE who have a salary greater than $2000 per month and have worked for less than 10 months.
+   Sort the results by ascending EMPLOYEE_ID.
