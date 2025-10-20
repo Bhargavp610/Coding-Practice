@@ -21,6 +21,7 @@ coding-practice/
 ├── SQL/                # SQL queries and practice problems
 ├── Python/             # Python basics (if-else, loops, functions, etc.)
 ├── Problem-Solving/    # HackerRank-style algorithm challenges
+├── Meta/               # Meta (Facebook) interview-style coding problems
 
 
 ## 🧑‍💻 Topics Covered
@@ -51,6 +52,12 @@ coding-practice/
 * Staircase
 * Min-Max Sum
 * Birthday Cake Candles
+
+### 💼 Meta Coding Questions
+
+* Real Meta (Facebook) practice problem
+* Focus on reasoning, edge cases, and efficient coding
+* Solutions include clear comments explaining logic and thought process
 
 ---
 
