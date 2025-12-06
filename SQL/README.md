@@ -87,3 +87,6 @@ Query the list of CITY names from STATION that start with a vowel (a, e, i, o, u
 23. **Western Longitude for Smallest Northern Latitude > 38.7780**
    Query the LONG_W where the smallest LAT_N is greater than 38.7780.
    Round the result to 4 decimal places.
+
+24 **Triangle Type Classification**
+   Identify the type of each record in the TRIANGLES table based on its three side lengths. Output one of four results: Equilateral, Isosceles, Scalene, or Not A Triangle.
