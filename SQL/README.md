@@ -90,3 +90,7 @@ Query the list of CITY names from STATION that start with a vowel (a, e, i, o, u
 
 24 **Triangle Type Classification**
    Identify the type of each record in the TRIANGLES table based on its three side lengths. Output one of four results: Equilateral, Isosceles, Scalene, or Not A Triangle.
+
+25. **Occupation Name Formatting and Frequency Count**
+   Query an alphabetically ordered list of all names in the OCCUPATIONS table, followed immediately by the first letter of each person’s occupation enclosed in parentheses.
+   Then query the total number of occurrences for each occupation, sorted in ascending order by count and alphabetically by occupation name if counts are equal.
